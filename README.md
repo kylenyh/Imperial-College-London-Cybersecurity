@@ -2,7 +2,7 @@
 
 Imperial College London MSc Computing (Security and Reliability) 2023/2024 Course 
 
-Total 10 modules (At least six electives must be from Group S, with the remainder (up to three) from Group O).
+Total 10 modules (At least six electives must be from Group S, with the remainder (up to three) from Group O)
 
 * MSc Computing (Specialism) Individual Project (Core)
 * Network and Web Security (Group S Elective)
