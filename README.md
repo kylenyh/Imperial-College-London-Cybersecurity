@@ -1,6 +1,12 @@
 # Imperial-College-London-Cybersecurity
 
-Imperial College London MSc Computing (Security and Reliability) 2023/2024 Course 
+You'll explore in detail the processes and mechanisms by which computer-based equipment, information and services are protected from unintended or unauthorised access.
+
+The course examines emerging trends in computing and how these techniques can be adapted in industrial applications. Practical programming training using Prolog and Matlab will also be provided. 
+
+You'll also enhance your project management and research skills on an individual project.
+
+MSc Computing (Security and Reliability), Faculty of Engineering
 
 Total 10 modules (At least six electives must be from Group S, with the remainder (up to three) from Group O)
 
