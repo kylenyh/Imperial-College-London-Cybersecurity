@@ -6,7 +6,7 @@ The course examines emerging trends in computing and how these techniques can be
 
 You'll also enhance your project management and research skills on an individual project.
 
-MSc Computing (Security and Reliability), Faculty of Engineering
+MSc Computing (Security and Reliability), Department of Computing, Faculty of Engineering
 
 Total 10 modules (At least six electives must be from Group S, with the remainder (up to three) from Group O)
 
